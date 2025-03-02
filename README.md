@@ -6,8 +6,8 @@
 
 ### 📫 Contact Me  
 - **LinkedIn**: [konstantin-voronkov](https://www.linkedin.com/in/konstantin-voronkov-v1992)  
-- **GitHub**: [konstantin-voronkov](https://github.com/Kostya-x-pro)  
-- **CodeWars**: [konstantin-voronkov](https://www.codewars.com/users/Kostya-x-pro)  
+- **GitHub**: [Kostya-x-pro](https://github.com/Kostya-x-pro)  
+- **CodeWars**: [Kostya-x-pro](https://www.codewars.com/users/Kostya-x-pro)  
 
 ## 🚀 About Me  
 I am a **Front-end developer** with **3+ years** of experience in building web applications. My main goal is to create **high-quality, productive, and user-friendly** interfaces. I have strong analytical skills and can work effectively with both **new technologies** and **legacy code**, improving and optimizing the product.  
